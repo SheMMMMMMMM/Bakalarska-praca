@@ -3,7 +3,6 @@ import { useParams, useNavigate } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import "../assets/styles/projects/ProjectDetail.css";
 import travelVlogsImg from "../assets/images/projects/travel_vlogs/vien/превю.jpg";
-import travelVlogsVideo from "../assets/videos/vien/day.mp4";
 import studyVibeVideo from "../assets/videos/study_vibe/1.MP4";
 import studyVibe1 from "../assets/images/projects/study_vibe/photo/1.jpg";
 import studyVibe2 from "../assets/images/projects/study_vibe/photo/2.jpg";
@@ -59,7 +58,7 @@ export default function ProjectDetail() {
             description: t("projects.list.videography.description"),
             fullDescription: t("projects.list.videography.fullDescription"),
             image: travelVlogsImg,
-            video: travelVlogsVideo
+            video: null
         },
         4: {
             title: t("projects.list.illustration.title"),
