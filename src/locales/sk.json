@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "projects": "Projekty",
+    "about": "O mne",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "portfolio": "Portfólio"
+  },
+  "projects": {
+    "filters": {
+      "all": "všetky",
+      "inspiration": "inšpirácia",
+      "study_vibe": "study vibe",
+      "travel_vlogs": "travel vlogy",
+      "trust_process": "nasledujte proces",
+      "garlic": "cesnak",
+      "illustration": "ilustrácia",
+      "burnout": "ako sa vyhnúť vyhoreniu"
+    },
+    "hoverText": "hi",
+    "list": {
+      "webDesign": {
+        "title": "Webový dizajn",
+        "description": "Moderný dizajn"
+      },
+      "studyVibe": {
+        "title": "Study Vibe",
+        "description": "Proces učenia",
+        "fullDescription": "Na tejto stránke sú predstavené vizuálne momenty z kreatívnej práce a učenia.\n\nObrázky sa zamerievajú na atmosféru, nie na činnosť, zachytávajú tiché stavy koncentrácie a procesu. Predstavujú vizuálne pozadie učenia a tvorenia."
+      },
+      "videography": {
+        "title": "Viedeň",
+        "description": "Viedeň Travel Vlogy",
+        "fullDescription": "Tento jeseň som cestovala do Rakúska, aby som sa ponorila do atmosféry viedenských ulíc, umeleckých múzeí a útulnosti európskeho mesta. Bola to cesta, o ktorej som dlho snívala – nielen pre nové zážitky, ale aj aby som strávila čas s priateľkou, s ktorou som sa tak dlho nevideli. Spolu sme blúdili historickým centrom, objavovali viedenské kultúrne poklady a jednoducho si vychutnávali každú chvíľu.\n\nAby som zachovala všetky tieto momenty, fotografovala som veľa a montovala video – chcela som zachytiť každú emóciu, každý záber, ktorý ma inšpiroval počas tejto cesty. Pre mňa sa táto cesta stala reštartom, zdrojom kreativity a teplých spomienok, ktoré si chcem niesť sebou ešte dlho."
+      },
+      "branding": {
+        "title": "Branding",
+        "description": "Identita značky",
+        "fullDescription": "Vývoj jedinečnej identity značky, ktorá vás odlišuje na trhu."
+      },
+      "animation": {
+        "title": "Animácia",
+        "description": "Motion dizajn",
+        "fullDescription": "Animácia a motion dizajn, ktorý oživuje váš obsah."
+      },
+      "illustration": {
+        "title": "Ilustrácia",
+        "description": "Digitálne umenie",
+        "fullDescription": "Digitálna ilustrácia, ktorá odhaľuje fantáziu a kreativitu."
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "name": "Meno",
+    "surname": "Priezvisko",
+    "email": "Email",
+    "message": "Správa",
+    "chars": "znakov",
+    "send": "Poslať"
+  },
+  "about": {
+    "title": "O mne",
+    "description1": "Som umelkyňa, ktorú zaujíma vzťah medzi pozorovateľnosťou a interpretáciou. Prostredníctvom ilustrácií, fotografií a krátkych videí skúmam formu, náladu a jemné vizuálne príbehy.",
+    "description2": "Môj tvorivý proces je intuitívny a detailne orientovaný. Často pracujem s každodennými predmetmi a premieňam ich na vizuálne kompozície, ktoré podávajú podnety na pomalé prezeranie a úvahu.",
+    "description3": "Táto webová stránka slúži ako portfólium a archív mojich prác. Odráža môj prístup k vizuálnemu rozprávanию príbehov — minimalistický, pokojný a zameraný na atmosféru.",
+    "copied": "Skopírované!"
+  },
+  "projectDetail": {
+    "notFound": "Projekt nenájdený",
+    "backToProjects": "Späť na projekty"
+  }
+}

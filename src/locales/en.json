@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "portfolio": "Portfolio"
+  },
+  "projects": {
+    "filters": {
+      "all": "all",
+      "inspiration": "inspiration",
+      "study_vibe": "study vibe",
+      "travel_vlogs": "travel vlogs",
+      "trust_process": "follow the process",
+      "garlic": "garlic",
+      "illustration": "illustration",
+      "burnout": "how to avoid burnout"
+    },
+    "hoverText": "hi",
+    "list": {
+      "webDesign": {
+        "title": "Web Design",
+        "description": "Modern design"
+      },
+      "studyVibe": {
+        "title": "Study Vibe",
+        "description": "Process of studying",
+        "fullDescription": "This page presents visual moments from creative work and learning.\n\nThe images focus on atmosphere rather than action, capturing quiet states of concentration and process. They represent the visual background of learning and creativity."
+      },
+      "videography": {
+        "title": "Vienna",
+        "description": "Vienna Travel Vlogs",
+        "fullDescription": "This autumn, I traveled to Austria to immerse myself in the atmosphere of Vienna's streets, art museums, and the coziness of a European city. It was a journey I had long dreamed of – not just for new impressions, but to spend time with a friend I hadn't seen in so long. Together, we wandered through the historic center, discovered Vienna's cultural treasures, and simply enjoyed every moment.\n\nTo preserve all these moments, I took many photos and edited a video – I wanted to capture every emotion, every frame that inspired me throughout this journey. For me, this trip became a restart, a source of creativity and warm memories that I want to carry with me for a long time."
+      },
+      "branding": {
+        "title": "Branding",
+        "description": "Brand identity",
+        "fullDescription": "Development of a unique brand identity that sets you apart in the market."
+      },
+      "animation": {
+        "title": "Animation",
+        "description": "Motion design",
+        "fullDescription": "Animation and motion design that brings your content to life."
+      },
+      "illustration": {
+        "title": "Illustration",
+        "description": "Digital art",
+        "fullDescription": "Digital illustration that reveals imagination and creativity."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Name",
+    "surname": "Surname",
+    "email": "Email",
+    "message": "Message",
+    "chars": "characters",
+    "send": "Send"
+  },
+  "about": {
+    "title": "About Me",
+    "description1": "I am an artist interested in the relationship between observation and interpretation. Through illustrations, photographs, and short videos, I explore form, mood, and subtle visual narratives.",
+    "description2": "My creative process is intuitive and detail-oriented. I often work with everyday objects, transforming them into visual compositions that encourage slow viewing and reflection.",
+    "description3": "This website serves as a portfolio and archive of my work. It reflects my approach to visual storytelling — minimalist, calm, and focused on atmosphere.",
+    "copied": "Copied!"
+  },
+  "projectDetail": {
+    "notFound": "Project not found",
+    "backToProjects": "Back to Projects"
+  }
+}
