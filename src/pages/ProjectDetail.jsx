@@ -3,7 +3,7 @@ import { useParams, useNavigate } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import "../assets/styles/projects/ProjectDetail.css";
 import travelVlogsImg from "../assets/images/projects/travel_vlogs/vien/превю.jpg";
-import travelVlogsVideo from "../assets/videos/vien/відень.mp4";
+import travelVlogsVideo from "../assets/videos/vien/day.mp4";
 import studyVibeVideo from "../assets/videos/study_vibe/1.MP4";
 import studyVibe1 from "../assets/images/projects/study_vibe/photo/1.jpg";
 import studyVibe2 from "../assets/images/projects/study_vibe/photo/2.jpg";
