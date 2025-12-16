@@ -2,13 +2,13 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import "../assets/styles/projects/Projects.css";
-import travelVlogsImg1 from "../assets/images/projects/travel_vlogs/vien/превю.jpg";
-import studyVibe1 from "../assets/images/projects/study_vibe/превю.jpg";
+import travelVlogsImg1 from "../assets/images/projects/travel_vlogs/vien/preview.jpg";
+import studyVibe1 from "../assets/images/projects/study_vibe/preview.jpg";
 import trustProcessImg1 from "../assets/images/projects/trust_process/1.jpg";
 import trustProcessImg2 from "../assets/images/projects/trust_process/2.jpg";
 import trustProcessImg3 from "../assets/images/projects/trust_process/3.jpg";
 import trustProcessImg4 from "../assets/images/projects/trust_process/4.jpg";
-import illustrationPreview from "../assets/images/projects/illustration/превю.jpg";
+import illustrationPreview from "../assets/images/projects/illustration/preview.jpg";
 
 
 export default function Projects() {

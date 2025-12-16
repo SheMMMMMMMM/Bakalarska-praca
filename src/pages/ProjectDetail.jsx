@@ -2,7 +2,8 @@ import { useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import "../assets/styles/projects/ProjectDetail.css";
-import travelVlogsImg from "../assets/images/projects/travel_vlogs/vien/превю.jpg";
+import travelVlogsImg from "../assets/images/projects/travel_vlogs/vien/preview.jpg";
+import travelVlogsVideo from "../assets/videos/vien/wien.mp4";
 import studyVibeVideo from "../assets/videos/study_vibe/1.MP4";
 import studyVibe1 from "../assets/images/projects/study_vibe/photo/1.jpg";
 import studyVibe2 from "../assets/images/projects/study_vibe/photo/2.jpg";
@@ -26,7 +27,7 @@ import illustrationVideo6 from "../assets/videos/illustration/6.MP4";
 import illustrationVideo7 from "../assets/videos/illustration/7.MP4";
 import illustrationVideo8 from "../assets/videos/illustration/8.MP4";
 import illustrationVideo9 from "../assets/videos/illustration/9.MP4";
-import illustrationPreview from "../assets/images/projects/illustration/превю.jpg";
+import illustrationPreview from "../assets/images/projects/illustration/preview.jpg";
 import illustrationImg1 from "../assets/images/projects/illustration/Untitled_Artwork 1.jpg";
 import illustrationImg2 from "../assets/images/projects/illustration/Untitled_Artwork 2.jpg";
 import illustrationImg3 from "../assets/images/projects/illustration/Untitled_Artwork 3.jpg";
@@ -58,7 +59,7 @@ export default function ProjectDetail() {
             description: t("projects.list.videography.description"),
             fullDescription: t("projects.list.videography.fullDescription"),
             image: travelVlogsImg,
-            video: null
+            video: travelVlogsVideo
         },
         4: {
             title: t("projects.list.illustration.title"),
