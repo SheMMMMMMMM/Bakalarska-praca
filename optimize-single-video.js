@@ -8,7 +8,7 @@ ffmpeg.setFfmpegPath(ffmpegInstaller.path);
 ffmpeg.setFfprobePath(ffprobeInstaller.path);
 
 async function optimizeSingleVideo() {
-    const inputFile = 'src/assets/videos/study_vibe/1.MP4';
+    const inputFile = 'src/assets/videos/vien/відень.mp4';
     
     if (!fs.existsSync(inputFile)) {
         console.log(`❌ Файл не знайдено: ${inputFile}`);
